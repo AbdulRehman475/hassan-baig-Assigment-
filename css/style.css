@@ -1,0 +1,95 @@
+#hh{
+  list-style-type: square;
+}
+#gg{
+  list-style-type: decimal-leading-zero;
+}
+#ff{
+  list-style-type: lower-greek;
+}
+#ii{
+  list-style-type: circle;
+}
+#ooo{
+  list-style-type: lower-alpha;
+}
+.headings{
+  text-align: center;
+  color:red ;
+  background-color: coral;
+}
+body{
+  background-image: url("/Images&videos/blue\ background.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+#div1{
+ 
+}
+#ul1{
+  display: flex;
+  justify-content:  space-evenly;
+  list-style-type: none;
+  border: 2px solid rgb(207, 202, 202);
+  background-color:blue;
+}
+#qq{
+  display: flex;
+  justify-content:  space-evenly;
+  list-style-type: none;
+  border: 2px solid rgb(218, 211, 211);
+}
+#he{
+  text-align: center;
+   font-family:'Times New Roman', Times, serif ;
+   color: blue;
+}
+.tablea{
+  text-align: center;
+}
+#h1{
+  color:blue;
+  background-color: azure;
+  align-items: center;
+}
+.asa{
+  background-color:lightblue;
+  color:blue;
+}
+.t{
+  background-color:lightblue;
+  color:blue;
+}
+#qq{
+  background-color:blue;
+}
+#listh{
+   position: relative;
+}
+.ac{
+  background-color:lightblue;
+  display: flexbox;
+}
+.h1{
+color:blue;
+}
+#maindiv{
+  border: 2px solid burlywood;  
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 900px ;
+}
+table,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  font-family:  'Arial Narrow', Arial, sans-serif;
+  border-radius: 20px;
+  color: yellow;
+  border-color:bisque;
+  
+}
+.zz{
+  color: burlywood;
+}
